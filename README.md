@@ -16,8 +16,6 @@ Exemplo: Criação de (card) dentro do CRM, junto com resumo da ligação e nota
 ---
 
 ## 🧩 Fluxo n8n
-![Fluxo do n8n](assets/fluxo.png)
-
 > Arquivo exportado: [`workflow.json`](./workflow.json)
 
 ---
